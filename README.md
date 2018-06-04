@@ -1,2 +1,2 @@
 # Memeji.github.io
- SpaceLander(https://Memeji.github.io/SpaceLander/index.html)
+ SpaceLander(https://Memeji.github.io/Memeji.github.io/index.html)
